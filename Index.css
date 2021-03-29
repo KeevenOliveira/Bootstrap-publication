@@ -5,12 +5,8 @@ body{
 .header{
     background-color: aquamarine;
 }
-#image{
-    width: 300px;
-}
 .cards{
     width: 100%;
     display: flex;
     justify-content: center;
-    height: 5vh;
 }
